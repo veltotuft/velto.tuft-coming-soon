@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Velto – Coming Soon</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: sans-serif;
+        background: #a35061;
+        color: #f2d3cc;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        text-align: center;
+      }
+      h1 {
+        font-size: 3em;
+      }
+      p {
+        font-size: 1.2em;
+        color: #aaa;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Velto</h1>
+    <p>tuft is coming to cut through the ordinary.<br>Launching soon.</p>
+  </body>
+</html>
